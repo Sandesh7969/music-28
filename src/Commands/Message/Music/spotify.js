@@ -1,7 +1,7 @@
 import { EmbedBuilder, ButtonBuilder, ActionRowBuilder } from "discord.js";
 import SpotiPro from "spoti-pro";
-const clientId = "a63f6f18680747e39e52d10a38a080f5";
-const clientSecret = "ac2a98c25c94440a8a803eab6e56c24c";
+const clientId = "e6f84fbec2b44a77bf35a20c5ffa54b8";
+const clientSecret = "498f461b962443cfaf9539c610e2ea81";
 const spoti = new SpotiPro(clientId, clientSecret);
 const limit = 5;
 const country = "IN";
