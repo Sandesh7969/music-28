@@ -22,7 +22,7 @@ export default {
    */
   run: async ({ message }) => {
     return message.reply({
-      content: "https://discord.com/invite/aMC2e8zgQb",
+      content: "https://discord.gg/GPzYFx7zfe",
     });
   },
 };
