@@ -1,6 +1,6 @@
 import { EmbedBuilder, ButtonBuilder, ActionRowBuilder } from "discord.js";
 import pkg from "discord.js";
-const prime = ['1057674644905279498']
+const prime = ['1131953433134497923']
 
 export default {
   name: "noprefixadd",
